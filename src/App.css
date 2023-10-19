@@ -1,0 +1,15 @@
+.main-body{
+  border: round 5px lightpink;
+  font-style: italic;
+}
+
+.schedule{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgb(160, 88, 88);
+}
+.sign--up{
+  color: whitesmoke;
+  background-color: black;
+}
